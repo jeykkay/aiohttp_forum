@@ -1,0 +1,6 @@
+common:
+  port: 8080
+  host: localhost
+postgres:
+  database_url: postgres://postgres:123456@localhost/aio_db
+  require_ssl: false
